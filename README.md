@@ -1,6 +1,6 @@
 # Recommendations with IBM
 
-In this project a recommedation engine is built using data which captures how users interact with
+In this project a recommendation engine is built using data which captures how users interact with
 articles on the IBM Watson Studio platform. The Studio platform is an online community of data science
 professionals, where members post articles, notebooks and tutorials. The dataset used in the project
 contains information for 45,993 user-article interactions, obtained in collaboration with IBM. 
